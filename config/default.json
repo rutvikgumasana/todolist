@@ -1,0 +1,10 @@
+{
+  "db_url": "mongodb://0.0.0.0:27017/todo",
+  "jwt_token_secret": "todo-backend-key",
+  "refresh_jwt_token_secret": "todo-backend-key",
+  "timeZone": "Asia/Calcutta",
+  "Winston": {
+    "level": "info"
+  },
+  "fcmKey": ""
+}
